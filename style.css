@@ -1,0 +1,82 @@
+body {
+    
+    }
+
+    #imagem {
+        width: 100%;
+    }
+    
+    .principal {
+        
+        border: 3px solid rgb(255, 0, 0);
+        background: #e3e0e0;
+        padding: 30px;
+        color: #14a734;
+    }
+
+    .título-principal{
+        
+        padding-left:  20px;
+    }
+
+   .título-centralizado {
+    text-align: center
+     } 
+
+p {
+    text-align: center;
+    }
+
+    #correr {
+        font-size: 20px;
+    }
+   
+
+    em strong {
+        color: blue;
+    }
+
+    strong {
+    color:crimson;
+}
+
+.itens {
+    font-style: italic;
+}
+
+
+.benefícios{
+    
+    background: #eff17e;
+    border: 3px solid rebeccapurple;
+    padding: 30px;
+    color: rgb(10, 6, 119);
+    font-size: 20px;
+   
+    }
+
+ ul {
+    margin-left: 2cm;
+display: inline-block;
+ vertical-align: top;
+ width: 45%;
+ margin-right: 50%;
+}
+
+ .imagem2 {
+    
+    width: 25%;
+ }
+
+ .dicas{
+    border: 3px solid blue;
+    background:#75ea8a;
+    padding: 15px;
+    color: rgba rgb(81, 119, 233);
+    font-size: 20px;
+    
+      
+ }
+
+
+  
